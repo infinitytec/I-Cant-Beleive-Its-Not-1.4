@@ -2,7 +2,7 @@
 // @name         I can't beleive it's not 1.4
 // @namespace    http://tampermonkey.net/
 // @version      0.9
-// @description  Making 3.0 look like 1.4
+// @description  Making 3.0 look like 1.4. This is currently under development.
 // @author       infinitytec
 // @match        https://llk.github.io/scratch-gui/*
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
