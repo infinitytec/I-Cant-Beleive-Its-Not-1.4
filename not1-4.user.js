@@ -7,7 +7,7 @@
 // @match        https://llk.github.io/scratch-gui/*
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
 // @grant        GM_addStyle
-// @updateURL
+// @updateURL    https://github.com/infinitytec/I-Cant-Beleive-Its-Not-1.4/raw/master/not1-4.user.js
 // ==/UserScript==
 
 (function() {
