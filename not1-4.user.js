@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         I can't beleive it's not 1.4
+// @name         I can't believe it's not 1.4
 // @namespace    http://tampermonkey.net/
 // @version      0.9
 // @description  Making 3.0 look like 1.4. This is currently under development.
